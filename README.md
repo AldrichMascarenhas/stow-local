@@ -76,8 +76,6 @@ This codebase has been cleaned and optimized from the original Webflow export:
 
 ## 📞 Business Contact
 
-- **Phone**: (+44) 0774 1176109
-- **Email**: hello@stowlocal.co.uk
 - **Location**: Walthamstow (E17), London
 
 ## 📄 License
